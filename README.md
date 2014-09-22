@@ -1,5 +1,4 @@
-Cascade-Plots-Basic
+Test Readme file
 ===================
 
-Cascade plots for WW2100
-Generates cascade plots from Envision csv files
+Learning git command line
